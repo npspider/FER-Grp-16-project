@@ -20,10 +20,23 @@ learning approach. The network should be trained with relatively more data in de
 
 1) Train the Model with Dataset FER-2013 jupyter Notebook (provided GPU in your PC) else use kaggle kernel or Google colab. Already trained Model is provided in the  repository by name - "FER_Model_Grp16.h5"
 
-2) Install editor Pycharm then install/import in main.py following after creating virtual environment:
-Python 3.7
-Tensorflow 2.7.0
+2) Install editor Pycharm then install/import in main.py following after creating virtual environment: Python 3.7 & Tensorflow 2.7.0 using pip.
 
 3) Many Modules pre-installed in Python 3.7 like opencv-python, numpy and in tensorflow like keras (within keras various function will be used).
 
 4) Download file "haarcascade_frontalface_default.xml" from repository for face detection.
+
+5) Download "FER_Model_Grp16.h5" from repository for facial expression recognition.
+
+# Run Project
+
+Keep "FER_Model_Grp16.h5", "haarcascade_frontalface_default.xml" and "main.py" in same directory.
+Run project with help of main.py after installing all required packages mentioned above. 
+
+# Contributor
+
+Ritesh kumar Chaurasia(CSE-2022) 1805210043 <br />
+Eshan Singh(CSE-2022) 1805210019 <br />
+Neelansh Pandey(CSE-2022) 1805210028
+
+
