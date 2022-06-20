@@ -21,9 +21,8 @@ learning approach. The network should be trained with relatively more data in de
 1) Train the Model with Dataset FER-2013 jupyter Notebook (provided GPU in your PC) else use kaggle kernel or Google colab. Already trained Model is provided in the  repository by name - "FER_Model_Grp16.h5"
 
 2) Install editor Pycharm then install/import in main.py following after creating virtual environment:
-
-  2.1) Python 3.7
-  2.2) Tensorflow 2.7.0
+Python 3.7
+Tensorflow 2.7.0
 
 3) Many Modules pre-installed in Python 3.7 like opencv-python, numpy and in tensorflow like keras (within keras various function will be used).
 
