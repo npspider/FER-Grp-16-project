@@ -15,3 +15,7 @@ cascade function will be trained with a set of input data. OpenCV contains many 
 classifiers for face, eyes, smile etc. The deep learning is a subset of machine learning. Deep
 learning is used by Google to translate the information form one language to another using deep
 learning approach. The network should be trained with relatively more data in deep learning.
+
+# Requirements
+
+Requirements are provided in requirements.txt.
